@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
-  tagline: 'Docusaurus 插件文档模板',
+  title: 'Chest-Commands-Wiki-CN',
+  tagline: 'Chest-Commands-Wiki 汉化',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://postyizhan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/Chest-Commands-Wiki-CN/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'postyizhan', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  projectName: 'Chest-Commands-Wiki-CN', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/postyizhan/Wiki-Template/blob/main'
+            'https://github.com/postyizhan/Chest-Commands-Wiki-CN/blob/main'
         },
         blog: false,
         theme: {
@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'Chest-Commands-Wiki-CN',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/postyizhan/Wiki-Template',
+            href: 'https://github.com/postyizhan/Chest-Commands-Wiki-CN',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/postyizhan/Wiki-Template',
+                href: 'https://github.com/postyizhan/Chest-Commands-Wiki-CN',
               },
             ],
           },

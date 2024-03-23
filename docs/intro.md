@@ -2,6 +2,9 @@
 sidebar_position: 1
 ---
 
-# Docusaurus 插件文档模板
+# Chest-Commands-Wiki
 
-跟着模板走, 文档不用愁
+![](_images/cover.png)
+![](_images/preview.jpg)
+
+英文原版wiki：https://filoghost.me/docs/chest-commands
