@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki_template=self.webpackChunkwiki_template||[]).push([[352],{6926:e=>{e.exports=JSON.parse('{"title":"BASICS","slug":"/category/basics","permalink":"/Chest-Commands-Wiki-CN/en/category/basics","navigation":{"next":{"title":"\u5b89\u88c5","permalink":"/Chest-Commands-Wiki-CN/en/BASICS/\u5b89\u88c5"}}}')}}]);
